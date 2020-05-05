@@ -1,0 +1,12 @@
+name: dp-network-environment
+channels:
+  - conda-forge  # CC BY 4.0
+dependencies:
+  - ipython==7.10.1  # BSD 3-Clause
+  - ipywidgets==7.5.1  # BSD 3-Clause
+  - pyvis==0.1.7.0  # BSD 3-Clause
+  - pandas>=0.24.1  # BSD 3-Clause
+  - Pillow==5.4.1  # PIL
+  - plotly>=4.5.4  # MIT
+  - requests==2.21.0  # Apache License 2.0
+  - appmode==0.7.0  # MIT
