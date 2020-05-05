@@ -4,6 +4,7 @@
 # Work License: Creative Commons Zero v1.0 Universal                        #
 # Libraries licenses in environment.yml                                     #
 # Git Repo: https://github.com/greggtdd/DeepPurpleNetwork                   #
+# PyVis docs used for this module: https://pyvis.readthedocs.io/en/latest/  #
 # Info: greggtedde@gmail.com                                                #
 #############################################################################
 
