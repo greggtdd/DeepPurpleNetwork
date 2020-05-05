@@ -9,7 +9,7 @@
 ##
 Repository for **The Deep Purple Network** project.
 
-This project's website is online at: https://greggtdd.github.io/DeepPurpleNetwork/
+This project's website is online at: http://deeppurplenetwork.cloud
 
 ## Try it live
 Click on a Binder badge below, depending on your device, and start exploring the **DP** family graph!<br>
