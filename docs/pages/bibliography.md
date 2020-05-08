@@ -14,7 +14,6 @@ ___
 * Chris Charlesworth, 1983, <em>Deep Purple: The Illustrated Biography by Chris Charlesworth</em>, Omnibus Press;
 * Dave Thompson, 2004, <em>Smoke On The Water: The Deep Purple History</em>, ECW Press;
 * David Easley, Jon Kleinberg, 2010, <em>Networks, Crowds and Markets: Reasoning About a Highly Connected World</em>, Cambridge University Press;
-* Deep Purple, 2002, <em>Listen Learn Read On Booklet</em>, EMI Records Ltd;
 * Federico Ballanti, 1986, <em>Deep Purple: La Leggenda dell'Heavy Rock Continua</em>, Big Parade;
 * Glenn Hughes, Joel Mclever, 2011, <em>Glenn Hughes: The Autobiography: From Deep Purple To Black Country Communion</em>, Foruli Ltd;
 * Ian Gillan, David Cohen, 2016, <em>Ian Gillan: The Autobiography of Deep Purple's Singer</em>, Music Press;
@@ -22,6 +21,7 @@ ___
 * Jerry Bloom, 2008, <em>Black Knight: Ritchie Blackmore</em>, Omnibus Press;
 * Jerry Bloom, 2018, <em>Nasty Piece Of Work: The Story of the Final Tumultuous Year of the Classic Deep Purple Mk II Line-up</em>, Wymer Publishing;
 * Peter Frame, 1993, <em>The Complete Rock Family Trees</em>, Omnibus Press;
+* Simon Robinson, 2002, <em>Listen Learn Read On</em> Box-set, Darker Than Blue Ltd (Additional material: Chris Charlesworth, Historical Consultant: Nigel Young, Editorial consultants: Nigel Young, Matthew Kean, Picture research, artwork, design: [EasyOnTheEye](https://easyontheeyebooks.wordpress.com/author/inrock777/));
 * Simon Robinson, 1989, <em>Whitesnake: An Illustrated Biography</em>, Omnibus Press.
 
 ## Articles
