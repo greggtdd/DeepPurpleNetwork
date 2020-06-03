@@ -31,7 +31,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
 
 **Listed bands and acts:**
 <style>
-   .container { margin-top:40px; border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; align:left }
+   .container { margin-left:10px; border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; align:left }
 </style>
 <div class="container">
   <div id="bands_list">
