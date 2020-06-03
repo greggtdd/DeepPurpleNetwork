@@ -22,12 +22,12 @@ After landing on a new notebook, start exploring the **DP** family graph!
 
 💻 **Desktop Visualization:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkDesktopApp.ipynb%3Fappmode_scroll%3D0)
+<a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkDesktopApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
 
 📱 **Mobile Visualization:**
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0)
+<a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
 ## Deep Purple Universe
 Each **Deep Purple** member has his own <em>Milky Way</em>.<br>
@@ -40,4 +40,4 @@ This work would not have been possible without these [libraries and publications
 
 ___
 <sub>© 2020 Gregorio Tedde. Made for analysis purpose.</sub><br>
-<sub>This project is licensed under the Creative Commons Zero v1.0 Universal License. [Click here](https://github.com/greggtdd/DeepPurpleNetwork/blob/master/LICENSE) file for more details.</sub>
+<sub>This project is licensed under the Creative Commons Zero v1.0 Universal License. <a href="https://github.com/greggtdd/DeepPurpleNetwork/blob/master/LICENSE" target="_blank">Click here</a> for more details.</sub>
