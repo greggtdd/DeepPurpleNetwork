@@ -32,7 +32,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
 **Listed bands and acts:**
 <head>
 <style>
- .container { border:2px solid #ccc; width:3000px; height: 400px; overflow-y: scroll; }
+ .container { border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; }
 </style>
 </head>
 <div align="left">
