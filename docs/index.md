@@ -30,15 +30,14 @@ After landing on a new notebook, start exploring the **DP** family graph!
 <a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
 **Listed bands and acts:**
-<html>
 <head>
 <style>
- .container { border:2px solid #ccc; width:230px; height: 400px; overflow-y: scroll; }
+ .container { border:2px solid #ccc; width:3000px; height: 400px; overflow-y: scroll; }
 </style>
 </head>
- <div align="left">
+<div align="left">
 <div class="container">
-<div id="hello">
+<div id="bands_list">
     Anderson Bruford Wakeman Howe<br>
     AC/DC<br>
     AC/DC Tribute<br>
@@ -424,7 +423,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
 </div>
 </div>
 </div>
-</html>
 
 ## Deep Purple Universe
 Each **Deep Purple** member has his own <em>Milky Way</em>.<br>
