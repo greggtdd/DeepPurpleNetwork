@@ -21,4 +21,4 @@ Deep Purple are going to publish their 21st studio album as I'm writing this pro
 
 ___
 <sub>© 2020 Gregorio Tedde. Made for analysis purpose.</sub><br>
-<sub>This project is licensed under the Creative Commons Zero v1.0 Universal License. [Click here](https://github.com/greggtdd/DeepPurpleNetwork/blob/master/LICENSE) file for more details.</sub>
+<sub>This project is licensed under the Creative Commons Zero v1.0 Universal License. <a href="https://github.com/greggtdd/DeepPurpleNetwork/blob/master/LICENSE" target="_blank">Click here</a> for more details.</sub>
