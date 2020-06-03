@@ -99,7 +99,7 @@ ___
 
 ### Ian Paice
 
-<div style="text-align: justify"><b>Ian Paice</b> is the only musician who ever played drums with Deep Purple, but his collaborations over the years range from <b>Paice Ashton Lord</b> to <b>Whitesnake</b>, <b>Gary Moore</b> and many others. He also plays several shows with Deep Purple tribute bands from all over the world and he has co-founded a charitable organization with his wife Jacky in 2010, called <a href="http://thesunflowerjam.com">The Sunflower Jam</a>.</div>
+<div style="text-align: justify"><b>Ian Paice</b> is the only musician who ever played drums with Deep Purple, but his collaborations over the years range from <b>Paice Ashton Lord</b> to <b>Whitesnake</b>, <b>Gary Moore</b> and many others. He also plays several shows with Deep Purple tribute bands from all over the world and he has co-founded a charitable organization with his wife Jacky in 2010, called <a href="http://thesunflowerjam.com" target="_blank">The Sunflower Jam</a>.</div>
 	
 <!-- blank line -->
 <figure class="video_container">
