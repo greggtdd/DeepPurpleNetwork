@@ -29,7 +29,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
 
 <a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
-**Listed bands and acts:**
+**Listed bands and main artists inside the network:**
 <style>
    .container { margin-left:0px; border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; align:left }
 </style>
@@ -55,11 +55,9 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Ashton Gardner & Dyke<br>
         Ashton Lord<br>
         Asia<br>
-        BCC<br>
-        BCC Album<br>
+        Black Country Communion<br>
         Baby Face<br>
         Bad Company<br>
-        Bad Company Album<br>
         Bedlam<br>
         Bernhard Welz<br>
         Bernie Marsden<br>
@@ -96,7 +94,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Cream<br>
         Curtiss Maldoon<br>
         Cyrano And The Bergeracs<br>
-        DVC<br>
+        D.V.C.<br>
         Damn Yankees<br>
         David Gilmour<br>
         David Lee Roth<br>
@@ -116,9 +114,9 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Dream Theater<br>
         Dream Theater Album<br>
         E-Think<br>
-        ELO<br>
-        ELP<br>
-        ELP Album<br>
+        Electric Light Orchestra<br>
+        Emerson Lake & Palmer<br>
+        Emerson Lake & Powell<br>
         Earth Wind & Fire<br>
         Eddie Hardin<br>
         Eddie Harris<br>
@@ -140,8 +138,8 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Foreigner Album<br>
         Free<br>
         G3<br>
-        GMT<br>
-        Garth Rockett<br>
+        G.M.T.<br>
+        Garth Rockett & The Moonshiners<br>
         Gary Moore<br>
         Genesis<br>
         George Harrison<br>
@@ -175,7 +173,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Jeff Beck<br>
         Jeff Scott Soto<br>
         Jethro Tull<br>
-        Jethro Tull Album<br>
         Jim Capaldi<br>
         Joe Bonamassa<br>
         Joe Lynn Turner<br>
@@ -183,7 +180,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Joe Satriani<br>
         Joe Walsh<br>
         John Mayall<br>
-        Johnny Kidd And The Pirates<br>
+        Johnny Kidd & The Pirates<br>
         Jon Lord<br>
         Jon Lord Blues Project<br>
         Jordan Rudess<br>
@@ -195,7 +192,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Kings Of Chaos<br>
         Kiss<br>
         LA Guns<br>
-        LMR<br>
+        Levin Minnemann Rudess<br>
         Led Zeppelin<br>
         Legend Voices Of Rock<br>
         Liquid Tension Experiment<br>
@@ -204,7 +201,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Lynch Mob<br>
         Lynyrd Skynyrd<br>
         M3<br>
-        MGM<br>
+        M.G.M.<br>
         Maggie Bell<br>
         Mahavishnu Orchestra<br>
         Mandrake Root<br>
@@ -236,8 +233,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Opeth<br>
         Over The Rainbow<br>
         Ozzy Osbourne<br>
-        Ozzy Osbourne Tribute<br>
-        PSMS<br>
+        Portnoy Sheehan MacAlpine Sherinian<br>
         Page Plant<br>
         Paice Ashton Lord<br>
         Pat Boone<br>
@@ -389,12 +385,10 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Trevor Rabin<br>
         Twisted Sister<br>
         UFO<br>
-        UK<br>
+        U.K.<br>
         Uli Jon Roth<br>
         Uriah Heep<br>
-        Uriah Heep Live<br>
         Van Halen<br>
-        Van Halen Tribute<br>
         Vanilla Fudge<br>
         Velvet Underground<br>
         Vintage 67<br>
