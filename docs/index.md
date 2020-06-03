@@ -35,18 +35,16 @@ After landing on a new notebook, start exploring the **DP** family graph!
 </style>
 <div class="container">
   <div id="bands_list">
-        Anderson Bruford Wakeman Howe<br>
         AC/DC<br>
-        AC/DC Tribute<br>
         Abba<br>
         Adam Fatih<br>
-        Aerosmith Tribute<br>
         Alaska<br>
         Alcatrazz<br>
         Alice Cooper<br>
         Alphonse Mouzon<br>
         Alvin Lee<br>
         American Standard<br>
+        Anderson Bruford Wakeman Howe<br>
         Anderson Rabin Wakeman<br>
         Andrew Lloyd Webber<br>
         Angelfire<br>
