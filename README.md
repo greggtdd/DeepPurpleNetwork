@@ -9,31 +9,31 @@
 ##
 Repository for **The Deep Purple Network** project.
 
-This project's website is online at: http://deeppurplenetwork.cloud
+This project's website is online at: <a href="http://deeppurplenetwork.cloud" target="_blank">http://deeppurplenetwork.cloud</a>
 
 ## Try it live
 Click on a Binder badge below, depending on your device, and start exploring the **DP** family graph!<br>
 <br>
 Desktop Visualization:<br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkDesktopApp.ipynb%3Fappmode_scroll%3D0)<br>
+<a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkDesktopApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a><br>
 <br>
 Smartphone Visualization:<br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0)
+<a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
 ## Built With
 
-* [Appmode](https://github.com/oschuett/appmode) - For deployment;
-* [ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Notebooks UI;
-* [Pandas](https://pandas.pydata.org) - Data Frame handling;
-* [Pillow](https://github.com/python-pillow/Pillow) - Images handling;
-* [Plotly](https://plotly.com/python/) - For interactive charts;
-* [pyVis](https://github.com/WestHealth/pyvis) - Network graph building.
+* <a href="https://github.com/oschuett/appmode" target="_blank">Appmode</a> - For deployment;
+* <a href="https://github.com/jupyter-widgets/ipywidgets" target="_blank">ipywidgets</a> - Notebooks UI;
+* <a href="https://pandas.pydata.org" target="_blank">Pandas</a> - Data Frame handling;
+* <a href="https://github.com/python-pillow/Pillow" target="_blank">Pillow</a> - Images handling;
+* <a href="https://plotly.com/python/" target="_blank">Plotly</a> - For interactive charts;
+* <a href="https://github.com/WestHealth/pyvis" target="_blank">pyVis</a> - Network graph building.
 
 ## Author
 
-[Gregorio Tedde](https://github.com/greggtdd)
+<a href="https://github.com/greggtdd" target="_blank">Gregorio Tedde</a>
 
 ## License
 
 This project is licensed under the Creative Commons Zero v1.0 Universal License.<br>
-See the [LICENSE.md](https://github.com/greggtdd/DeepPurpleNetwork/blob/master/LICENSE) file for more details.
+See the <a href="https://github.com/greggtdd/DeepPurpleNetwork/blob/master/LICENSE" target="_blank">LICENSE.md</a> file for more details.
