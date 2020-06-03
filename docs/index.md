@@ -1,4 +1,4 @@
-<div align="center"><a href="https://greggtdd.github.io/DeepPurpleNetwork/"><img src="https://raw.githubusercontent.com/greggtdd/DeepPurpleNetwork/master/docs/site_images/dpnetwork_banner.png"></a></div>
+<div align="left"><a href="https://greggtdd.github.io/DeepPurpleNetwork/"><img src="https://raw.githubusercontent.com/greggtdd/DeepPurpleNetwork/master/docs/site_images/dpnetwork_banner.png"></a></div>
 
 ___
 
