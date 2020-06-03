@@ -29,16 +29,17 @@ After landing on a new notebook, start exploring the **DP** family graph!
 
 <a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
-**Listed bands and projects:**
+**Listed bands and acts:**
 <html>
 <head>
 <style>
  .container { border:2px solid #ccc; width:230px; height: 400px; overflow-y: scroll; }
 </style>
 </head>
+ <div align="left">
 <div class="container">
 <div id="hello">
-    ABWH<br>
+    Anderson Bruford Wakeman Howe<br>
     AC/DC<br>
     AC/DC Tribute<br>
     Abba<br>
@@ -91,7 +92,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
     Captain Beyond<br>
     Chicago<br>
     Chickenfoot<br>
-    Christmas Album<br>
     Cinderella<br>
     Cofee Bar<br>
     Colusseum<br>
@@ -105,9 +105,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
     David Gilmour<br>
     David Lee Roth<br>
     Deep Purple<br>
-    Deep Purple Album<br>
-    Deep Purple Live<br>
-    Deep Purple Tribute<br>
     Def Leppard<br>
     Delta Five<br>
     Denny And The Triumphs<br>
@@ -139,7 +136,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
     Espen Lid<br>
     Europe<br>
     Fandango<br>
-    Festival Events<br>
     Finders Keepers<br>
     Fleetwood Mac<br>
     Flying Colors<br>
@@ -176,8 +172,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
     Ian Gillan<br>
     Ian Gillan Band<br>
     Iron Maiden<br>
-    Iron Maiden Album<br>
-    Iron Maiden Tribute<br>
     Jack Bruce<br>
     Jack Green<br>
     James Gang<br>
@@ -273,7 +267,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
     RHCP<br>
     Rage Against The Machine<br>
     Rainbow<br>
-    Rainbow Album<br>
     Randy Pie<br>
     Ratt<br>
     Repo Depo<br>
@@ -332,7 +325,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
     Sweetshop<br>
     Symphonyc Slam<br>
     System Of A Down<br>
-    TEP<br>
+    Tipton Entwistle & Powell<br>
     Talking Heads<br>
     Tempest<br>
     Ten Years After<br>
@@ -417,7 +410,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
     White Lion<br>
     White Plains<br>
     Whitesnake<br>
-    Whitesnake Album<br>
     Widowmaker<br>
     Wild Horses<br>
     William Shatner<br>
@@ -429,6 +421,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
     Young Moody<br>
     ZZ Top<br>
     Zephyr
+</div>
 </div>
 </div>
 </html>
