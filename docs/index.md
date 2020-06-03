@@ -30,10 +30,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
 <a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
 **Listed bands and acts:**
-<style>
- .container { border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; }
-</style>
-<div align="jusitfy">
+<div align="jusitfy"><style>.container { border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; }</style>
  <div class="container">
   <div id="bands_list">
       Anderson Bruford Wakeman Howe<br>
