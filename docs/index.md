@@ -33,7 +33,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
 <style>
  .container { border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; }
 </style>
-<div align="left">
+<div align="jusitfy">
  <div class="container">
   <div id="bands_list">
       Anderson Bruford Wakeman Howe<br>
