@@ -44,8 +44,8 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Alphonse Mouzon<br>
         Alvin Lee<br>
         American Standard<br>
-        Anderson, Bruford, Wakeman, Howe<br>
-        Anderson, Rabin, Wakeman<br>
+        Anderson/Bruford/Wakeman/Howe<br>
+        Anderson/Rabin/Wakeman<br>
         Andrew Lloyd Webber<br>
         Angelfire<br>
         Anthrax<br>
@@ -187,7 +187,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Kings Of Chaos<br>
         Kiss<br>
         L.A. Guns<br>
-        Levin, Minnemann, Rudess<br>
+        Levin/Minnemann/Rudess<br>
         Led Zeppelin<br>
         Legend Voices Of Rock<br>
         Liquid Tension Experiment<br>
@@ -227,9 +227,9 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Opeth<br>
         Over The Rainbow<br>
         Ozzy Osbourne<br>
-        Portnoy, Sheehan, MacAlpine, Sherinian<br>
+        Portnoy/Sheehan/MacAlpine/Sherinian<br>
         Page Plant<br>
-        Paice, Ashton, Lord<br>
+        Paice/Ashton/Lord<br>
         Pat Boone<br>
         Pat Travers<br>
         Patch Of Blue<br>
@@ -272,7 +272,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Rosco Gordon<br>
         Roundabout<br>
         Roxy Music<br>
-        Rudess Morgenstein<br>
+        Rudess/Morgenstein<br>
         Rupert Hine<br>
         Rush<br>
         Rush Album<br>
@@ -400,7 +400,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Y&T<br>
         Yes<br>
         Yngwie Malmsteen<br>
-        Young Moody<br>
+        Young/Moody<br>
         ZZ Top<br>
         Zephyr
    </div>
