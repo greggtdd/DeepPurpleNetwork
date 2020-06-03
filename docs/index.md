@@ -5,6 +5,7 @@
   </style>
  </head>
 <div class="container">
+ <div align="left">
   <div id="bands_list">
         Anderson Bruford Wakeman Howe<br>
         AC/DC<br>
@@ -388,6 +389,7 @@
         Young Moody<br>
         ZZ Top<br>
         Zephyr
+   </div>
   </div>
  </div>
 </html>
