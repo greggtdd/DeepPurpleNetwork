@@ -33,7 +33,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
 <html>
  <head>
   <style>
-   .container { border:2px solid #ccc; width:250px; height: 400px; overflow-y: scroll; align:left }
+   .container { border:2px solid #ccc; width:300px; height: 400px; overflow-y: scroll; align:left }
   </style>
  </head>
 <div class="container">
