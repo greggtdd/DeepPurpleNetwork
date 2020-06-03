@@ -29,6 +29,410 @@ After landing on a new notebook, start exploring the **DP** family graph!
 
 <a href="https://mybinder.org/v2/gh/greggtdd/DeepPurpleNetwork/master?urlpath=%2Fapps%2FDPNetworkMobileApp.ipynb%3Fappmode_scroll%3D0" target="_blank"><img src="https://mybinder.org/badge_logo.svg"></a>
 
+**Listed bands and projects:**
+<html>
+<head>
+<style>
+ .container { border:2px solid #ccc; width:230px; height: 400px; overflow-y: scroll; }
+</style>
+</head>
+<div class="container">
+<div id="hello">
+    ABWH<br>
+    AC/DC<br>
+    AC/DC Tribute<br>
+    Abba<br>
+    Adam Fatih<br>
+    Aerosmith Tribute<br>
+    Alaska<br>
+    Alcatrazz<br>
+    Alice Cooper<br>
+    Alphonse Mouzon<br>
+    Alvin Lee<br>
+    American Standard<br>
+    Anderson Rabin Wakeman<br>
+    Andrew Lloyd Webber<br>
+    Angelfire<br>
+    Anthrax<br>
+    Arthur Brown<br>
+    Ashton Gardner & Dyke<br>
+    Ashton Lord<br>
+    Asia<br>
+    BCC<br>
+    BCC Album<br>
+    Baby Face<br>
+    Bad Company<br>
+    Bad Company Album<br>
+    Bedlam<br>
+    Bernhard Welz<br>
+    Bernie Marsden<br>
+    Big Bertha<br>
+    Billie Davis<br>
+    Billy Cobham<br>
+    Billy Joel<br>
+    Black Label Society<br>
+    Black Oak Arkansas<br>
+    Black Sabbath<br>
+    Black Sabbath Album<br>
+    Blackmore's Night<br>
+    Blessings<br>
+    Blood Sweat & Tears<br>
+    Blues Incorporated<br>
+    Bob Dylan<br>
+    Bogus Deep Purple<br>
+    Bon Jovi<br>
+    Boys Club<br>
+    Boz Burrell<br>
+    Brazen Abbot<br>
+    Brian May<br>
+    Bruce Dickinson<br>
+    Buddy Britten & The Regents<br>
+    California Breed<br>
+    Captain Beyond<br>
+    Chicago<br>
+    Chickenfoot<br>
+    Christmas Album<br>
+    Cinderella<br>
+    Cofee Bar<br>
+    Colusseum<br>
+    Coverdale Page<br>
+    Cozy Powell<br>
+    Cream<br>
+    Curtiss Maldoon<br>
+    Cyrano And The Bergeracs<br>
+    DVC<br>
+    Damn Yankees<br>
+    David Gilmour<br>
+    David Lee Roth<br>
+    Deep Purple<br>
+    Deep Purple Album<br>
+    Deep Purple Live<br>
+    Deep Purple Tribute<br>
+    Def Leppard<br>
+    Delta Five<br>
+    Denny And The Triumphs<br>
+    Denver Mule<br>
+    Desperado<br>
+    Device<br>
+    Die Geyers<br>
+    Dire Straits<br>
+    Dixie Dregs<br>
+    Dokken<br>
+    Don Airey<br>
+    Dr. John<br>
+    Dream Theater<br>
+    Dream Theater Album<br>
+    E-Think<br>
+    ELO<br>
+    ELP<br>
+    ELP Album<br>
+    Earth Wind & Fire<br>
+    Eddie Hardin<br>
+    Eddie Harris<br>
+    Ekseption<br>
+    Electric Elves<br>
+    Elf<br>
+    Empire<br>
+    Energy<br>
+    Episode Six<br>
+    Eric Clapton<br>
+    Espen Lid<br>
+    Europe<br>
+    Fandango<br>
+    Festival Events<br>
+    Finders Keepers<br>
+    Fleetwood Mac<br>
+    Flying Colors<br>
+    Flying Fox<br>
+    Foreigner<br>
+    Foreigner Album<br>
+    Free<br>
+    G3<br>
+    GMT<br>
+    Garth Rockett<br>
+    Gary Moore<br>
+    Genesis<br>
+    George Harrison<br>
+    Gillan<br>
+    Gillan Glover<br>
+    Giuffria<br>
+    Glenn Hughes<br>
+    Glenn Tipton<br>
+    Gotthard<br>
+    Gov't Mule<br>
+    Graham Bonnet<br>
+    Green Bullfrog<br>
+    Greg Lake<br>
+    Guns N' Roses<br>
+    Hardin York<br>
+    Harlot<br>
+    Harvest<br>
+    Heinz Burt<br>
+    Hollywood Monsters<br>
+    Hughes Downes<br>
+    Hughes Iommi<br>
+    Hughes Thrall<br>
+    Hughes Turner Project<br>
+    Ian Gillan<br>
+    Ian Gillan Band<br>
+    Iron Maiden<br>
+    Iron Maiden Album<br>
+    Iron Maiden Tribute<br>
+    Jack Bruce<br>
+    Jack Green<br>
+    James Gang<br>
+    Jan Holdeborg<br>
+    Jeff Beck<br>
+    Jeff Scott Soto<br>
+    Jethro Tull<br>
+    Jethro Tull Album<br>
+    Jim Capaldi<br>
+    Joe Bonamassa<br>
+    Joe Lynn Turner<br>
+    Joe Meek<br>
+    Joe Satriani<br>
+    Joe Walsh<br>
+    John Mayall<br>
+    Johnny Kidd And The Pirates<br>
+    Jon Lord<br>
+    Jon Lord Blues Project<br>
+    Jordan Rudess<br>
+    Journey<br>
+    Judas Priest<br>
+    Kansas<br>
+    Keith Emerson<br>
+    King Crimsom<br>
+    Kings Of Chaos<br>
+    Kiss<br>
+    LA Guns<br>
+    LMR<br>
+    Led Zeppelin<br>
+    Legend Voices Of Rock<br>
+    Liquid Tension Experiment<br>
+    Living Colour<br>
+    Living Loud<br>
+    Lynch Mob<br>
+    Lynyrd Skynyrd<br>
+    M3<br>
+    MGM<br>
+    Maggie Bell<br>
+    Mahavishnu Orchestra<br>
+    Mandrake Root<br>
+    Mandred Mann<br>
+    Manfred Mann<br>
+    Marco Minnemann<br>
+    Marsha Hunt<br>
+    Masterplan<br>
+    Meat Loaf<br>
+    Megadeth<br>
+    Metallica<br>
+    Michael Bolton<br>
+    Michael Jackson<br>
+    Michael Men<br>
+    Michael Schenker Group<br>
+    Mick Jagger<br>
+    Moody Blues<br>
+    Moody Marsden<br>
+    Moonstone Project<br>
+    Mother's Army<br>
+    Motörhead<br>
+    Moxy<br>
+    Mr. Big<br>
+    Mötley Crüe<br>
+    Nazareth<br>
+    Nick Simper<br>
+    Night Ranger<br>
+    Olympic Rock & Blues Circus<br>
+    Opeth<br>
+    Over The Rainbow<br>
+    Ozzy Osbourne<br>
+    Ozzy Osbourne Tribute<br>
+    PSMS<br>
+    Page Plant<br>
+    Paice Ashton Lord<br>
+    Pat Boone<br>
+    Pat Travers<br>
+    Patch Of Blue<br>
+    Paul Gilbert<br>
+    Paul McCartney<br>
+    Pete York<br>
+    Peter Green<br>
+    Phenomena<br>
+    Phil Collins<br>
+    Pink Floyd<br>
+    Planet X<br>
+    Poison<br>
+    Popzarocca<br>
+    Pretty Maids<br>
+    Pride & Glory<br>
+    Procol Harum<br>
+    Quatermass<br>
+    Queen<br>
+    Quiet Riot<br>
+    Quite Melon<br>
+    RHCP<br>
+    Rage Against The Machine<br>
+    Rainbow<br>
+    Rainbow Album<br>
+    Randy Pie<br>
+    Ratt<br>
+    Repo Depo<br>
+    Richie Kotzen<br>
+    Rick Wakeman<br>
+    Ringo Starr<br>
+    Riot<br>
+    River's Invitation<br>
+    Robert Plant<br>
+    Rock Aid Armenia<br>
+    Rock Ensemble II<br>
+    Rod Stewart<br>
+    Roger Glover<br>
+    Ronnie James Dio<br>
+    Ronnie Jones<br>
+    Rory Gallagher<br>
+    Rosco Gordon<br>
+    Roundabout<br>
+    Roxy Music<br>
+    Rudess Morgenstein<br>
+    Rupert Hine<br>
+    Rush<br>
+    Rush Album<br>
+    Saint Valentine's Day Massacre<br>
+    Samson<br>
+    Santa Barbara Machine Head<br>
+    Santana<br>
+    Saxon<br>
+    Schon Hammer<br>
+    Scorpions<br>
+    Screaming Lord Sutch<br>
+    Sebastian Bach<br>
+    Sharon Isbin<br>
+    Simon Raven Cult<br>
+    Skid Row<br>
+    Skid Row (Irish Band)<br>
+    Slash's Snakepit<br>
+    Slayer<br>
+    Slipknot<br>
+    Snafu<br>
+    Snakecharmer<br>
+    Some Other Guys<br>
+    Sons Of Apollo<br>
+    Soul SirKUS<br>
+    Spike Edney<br>
+    Spirit<br>
+    Spock's Beard<br>
+    Steamroller<br>
+    Steve Morse Band<br>
+    Stevie Nicks<br>
+    Strange Brew<br>
+    Strife<br>
+    Sunflower Jam<br>
+    Sunstorm<br>
+    Supertramp<br>
+    Sweetshop<br>
+    Symphonyc Slam<br>
+    System Of A Down<br>
+    TEP<br>
+    Talking Heads<br>
+    Tempest<br>
+    Ten Years After<br>
+    The Allmann Brothers Band<br>
+    The Aristocrats<br>
+    The Artwoods<br>
+    The Beatles<br>
+    The Best<br>
+    The Buggles<br>
+    The Chateaux<br>
+    The Condors<br>
+    The Crusaders<br>
+    The Cult<br>
+    The Dead Daisies<br>
+    The Dominators<br>
+    The Fabulosa Brothers<br>
+    The Faces<br>
+    The Flowerpot Men<br>
+    The Good Rats<br>
+    The Government<br>
+    The Hoochie Coochie Men<br>
+    The Horizons<br>
+    The Javelins<br>
+    The Jaywalkers<br>
+    The Jeff Beck Group<br>
+    The Jimi Hendrix Experience<br>
+    The Jumping Jimmy Band<br>
+    The Kinks<br>
+    The Lightnings<br>
+    The MI5<br>
+    The Madisons<br>
+    The Marbles<br>
+    The Maze<br>
+    The McKinleys<br>
+    The Nasty Habits<br>
+    The Outlaws<br>
+    The Pirates<br>
+    The Police<br>
+    The Police Tribute<br>
+    The Renegades<br>
+    The Rockers<br>
+    The Rolling Stones<br>
+    The Satellites<br>
+    The Searchers<br>
+    The Shadows Tribute<br>
+    The Shindings<br>
+    The Skyliners<br>
+    The Spencer Davis Group<br>
+    The Sweet<br>
+    The Temperane Movement<br>
+    The Three Musketeers<br>
+    The Trip<br>
+    The Vegas Kings<br>
+    The Who<br>
+    The Yardbirds<br>
+    Thin Lizzy<br>
+    Tigertailz<br>
+    Tommy Bolin<br>
+    Tony Ashton<br>
+    Tony Iommi<br>
+    Tony Martin<br>
+    Toto<br>
+    Traffic<br>
+    Trapeze<br>
+    Trevor Rabin<br>
+    Twisted Sister<br>
+    UFO<br>
+    UK<br>
+    Uli Jon Roth<br>
+    Uriah Heep<br>
+    Uriah Heep Live<br>
+    Van Halen<br>
+    Van Halen Tribute<br>
+    Vanilla Fudge<br>
+    Velvet Underground<br>
+    Vintage 67<br>
+    Wainwright's Gentlemen<br>
+    Warhorse<br>
+    Water (Film)<br>
+    We Willie Harris<br>
+    Whishbone Ash<br>
+    White Lion<br>
+    White Plains<br>
+    Whitesnake<br>
+    Whitesnake Album<br>
+    Widowmaker<br>
+    Wild Horses<br>
+    William Shatner<br>
+    Winery Dogs<br>
+    Winger<br>
+    Y&T<br>
+    Yes<br>
+    Yngwie Malmsteen<br>
+    Young Moody<br>
+    ZZ Top<br>
+    Zephyr
+</div>
+</div>
+</html>
+
 ## Deep Purple Universe
 Each **Deep Purple** member has his own <em>Milky Way</em>.<br>
 Explore the Algorithms Playground based on the original network graph.
