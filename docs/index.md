@@ -44,14 +44,14 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Alphonse Mouzon<br>
         Alvin Lee<br>
         American Standard<br>
-        Anderson Bruford Wakeman Howe<br>
-        Anderson Rabin Wakeman<br>
+        Anderson, Bruford, Wakeman, Howe<br>
+        Anderson, Rabin, Wakeman<br>
         Andrew Lloyd Webber<br>
         Angelfire<br>
         Anthrax<br>
         Arthur Brown<br>
-        Ashton Gardner & Dyke<br>
-        Ashton Lord<br>
+        Ashton, Gardner & Dyke<br>
+        Ashton/Lord<br>
         Asia<br>
         Black Country Communion<br>
         Baby Face<br>
@@ -66,13 +66,11 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Black Label Society<br>
         Black Oak Arkansas<br>
         Black Sabbath<br>
-        Black Sabbath Album<br>
         Blackmore's Night<br>
         Blessings<br>
         Blood Sweat & Tears<br>
         Blues Incorporated<br>
         Bob Dylan<br>
-        Bogus Deep Purple<br>
         Bon Jovi<br>
         Boys Club<br>
         Boz Burrell<br>
@@ -87,19 +85,20 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Cinderella<br>
         Cofee Bar<br>
         Colusseum<br>
-        Coverdale Page<br>
+        Coverdale/Page<br>
         Cozy Powell<br>
         Cream<br>
-        Curtiss Maldoon<br>
-        Cyrano And The Bergeracs<br>
+        Curtiss/Maldoon<br>
+        Cyrano & The Bergeracs<br>
         D.V.C.<br>
         Damn Yankees<br>
         David Gilmour<br>
         David Lee Roth<br>
         Deep Purple<br>
+        Deep Purple (Bogus)<br>
         Def Leppard<br>
         Delta Five<br>
-        Denny And The Triumphs<br>
+        Denny & The Triumphs<br>
         Denver Mule<br>
         Desperado<br>
         Device<br>
@@ -110,12 +109,11 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Don Airey<br>
         Dr. John<br>
         Dream Theater<br>
-        Dream Theater Album<br>
         E-Think<br>
-        Electric Light Orchestra<br>
-        Emerson Lake & Palmer<br>
-        Emerson Lake & Powell<br>
         Earth Wind & Fire<br>
+        Electric Light Orchestra<br>
+        Emerson, Lake & Palmer<br>
+        Emerson, Lake & Powell<br>
         Eddie Hardin<br>
         Eddie Harris<br>
         Ekseption<br>
@@ -133,16 +131,15 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Flying Colors<br>
         Flying Fox<br>
         Foreigner<br>
-        Foreigner Album<br>
         Free<br>
-        G3<br>
+        G3 Tour<br>
         G.M.T.<br>
         Garth Rockett & The Moonshiners<br>
         Gary Moore<br>
         Genesis<br>
         George Harrison<br>
         Gillan<br>
-        Gillan Glover<br>
+        Gillan/Glover<br>
         Giuffria<br>
         Glenn Hughes<br>
         Glenn Tipton<br>
@@ -157,10 +154,10 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Harvest<br>
         Heinz Burt<br>
         Hollywood Monsters<br>
-        Hughes Downes<br>
-        Hughes Iommi<br>
-        Hughes Thrall<br>
-        Hughes Turner Project<br>
+        Hughes/Downes<br>
+        Hughes/Iommi<br>
+        Hughes/Thrall<br>
+        Hughes/Turner Project<br>
         Ian Gillan<br>
         Ian Gillan Band<br>
         Iron Maiden<br>
@@ -174,7 +171,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Jim Capaldi<br>
         Joe Bonamassa<br>
         Joe Lynn Turner<br>
-        Joe Meek<br>
+        Joe Meek (Producer)<br>
         Joe Satriani<br>
         Joe Walsh<br>
         John Mayall<br>
@@ -189,8 +186,8 @@ After landing on a new notebook, start exploring the **DP** family graph!
         King Crimsom<br>
         Kings Of Chaos<br>
         Kiss<br>
-        LA Guns<br>
-        Levin Minnemann Rudess<br>
+        L.A. Guns<br>
+        Levin, Minnemann, Rudess<br>
         Led Zeppelin<br>
         Legend Voices Of Rock<br>
         Liquid Tension Experiment<br>
@@ -203,7 +200,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Maggie Bell<br>
         Mahavishnu Orchestra<br>
         Mandrake Root<br>
-        Mandred Mann<br>
         Manfred Mann<br>
         Marco Minnemann<br>
         Marsha Hunt<br>
@@ -231,9 +227,9 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Opeth<br>
         Over The Rainbow<br>
         Ozzy Osbourne<br>
-        Portnoy Sheehan MacAlpine Sherinian<br>
+        Portnoy, Sheehan, MacAlpine, Sherinian<br>
         Page Plant<br>
-        Paice Ashton Lord<br>
+        Paice, Ashton, Lord<br>
         Pat Boone<br>
         Pat Travers<br>
         Patch Of Blue<br>
@@ -254,7 +250,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Queen<br>
         Quiet Riot<br>
         Quite Melon<br>
-        RHCP<br>
+        Red Hot Chili Peppers<br>
         Rage Against The Machine<br>
         Rainbow<br>
         Randy Pie<br>
@@ -309,13 +305,13 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Stevie Nicks<br>
         Strange Brew<br>
         Strife<br>
-        Sunflower Jam<br>
+        Sunflower Jam (Charity Event)<br>
         Sunstorm<br>
         Supertramp<br>
         Sweetshop<br>
         Symphonyc Slam<br>
         System Of A Down<br>
-        Tipton Entwistle & Powell<br>
+        Tipton, Entwistle & Powell<br>
         Talking Heads<br>
         Tempest<br>
         Ten Years After<br>
@@ -345,7 +341,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         The Jumping Jimmy Band<br>
         The Kinks<br>
         The Lightnings<br>
-        The MI5<br>
+        The MI-5<br>
         The Madisons<br>
         The Marbles<br>
         The Maze<br>
@@ -354,18 +350,17 @@ After landing on a new notebook, start exploring the **DP** family graph!
         The Outlaws<br>
         The Pirates<br>
         The Police<br>
-        The Police Tribute<br>
         The Renegades<br>
         The Rockers<br>
         The Rolling Stones<br>
         The Satellites<br>
         The Searchers<br>
-        The Shadows Tribute<br>
         The Shindings<br>
+        The Singing Rebel's Band<br>
         The Skyliners<br>
         The Spencer Davis Group<br>
         The Sweet<br>
-        The Temperane Movement<br>
+        The Temperance Movement<br>
         The Three Musketeers<br>
         The Trip<br>
         The Vegas Kings<br>
@@ -392,7 +387,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Vintage 67<br>
         Wainwright's Gentlemen<br>
         Warhorse<br>
-        Water (Film)<br>
         We Willie Harris<br>
         Whishbone Ash<br>
         White Lion<br>
