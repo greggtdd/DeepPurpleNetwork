@@ -1,12 +1,12 @@
-#############################################################################
-# Project: The Deep Purple Network.                                         #
-# (CC) 2020 Made by Gregorio Tedde just for analysis purpose.               #
-# Work License: Creative Commons Zero v1.0 Universal                        #
-# Libraries licenses in environment.yml                                     #
-# Git Repo: https://github.com/greggtdd/DeepPurpleNetwork                   #
-# PyVis docs used for this module: https://pyvis.readthedocs.io/en/latest/  #
-# Info: greggtedde@gmail.com                                                #
-#############################################################################
+######################################################################################################
+# Project: The Deep Purple Network.                                                                  #
+# (CC) 2020 Made by Gregorio Tedde just for analysis purpose.                                        #
+# Work License: Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License   #
+# Libraries licenses in environment.yml                                                              #
+# Git Repo: https://github.com/greggtdd/DeepPurpleNetwork                                            #
+# PyVis docs used for this module: https://pyvis.readthedocs.io/en/latest/                           #
+# Info: greggtedde@gmail.com                                                                         #
+######################################################################################################
 
 import pandas as pd
 from pyvis.network import Network
