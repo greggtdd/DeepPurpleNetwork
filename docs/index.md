@@ -275,7 +275,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Rudess/Morgenstein<br>
         Rupert Hine<br>
         Rush<br>
-        Rush Album<br>
         Saint Valentine's Day Massacre<br>
         Samson<br>
         Santa Barbara Machine Head<br>
