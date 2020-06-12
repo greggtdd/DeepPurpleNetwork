@@ -38,9 +38,12 @@ After landing on a new notebook, start exploring the **DP** family graph!
         AC/DC<br>
         Abba<br>
         Adam Fatih<br>
+        Adrenaline Mob<br>
+        After Forever<br>
         Alaska<br>
         Alcatrazz<br>
         Alice Cooper<br>
+        Allen/Lande<br>
         Alphonse Mouzon<br>
         Alvin Lee<br>
         American Standard<br>
@@ -107,6 +110,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Dixie Dregs<br>
         Dokken<br>
         Don Airey<br>
+        Doro Pesch<br>
         Dr. John<br>
         Dream Theater<br>
         E-Think<br>
@@ -183,6 +187,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Judas Priest<br>
         Kansas<br>
         Keith Emerson<br>
+        Killswitch Engage<br>
         King Crimsom<br>
         Kings Of Chaos<br>
         Kiss<br>
@@ -190,6 +195,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Levin/Minnemann/Rudess<br>
         Led Zeppelin<br>
         Legend Voices Of Rock<br>
+        Level 10<br>
         Liquid Tension Experiment<br>
         Living Colour<br>
         Living Loud<br>
@@ -202,6 +208,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Mandrake Root<br>
         Manfred Mann<br>
         Marco Minnemann<br>
+        Mark Boals<br>
         Marsha Hunt<br>
         Masterplan<br>
         Meat Loaf<br>
@@ -217,6 +224,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Moonstone Project<br>
         Mother's Army<br>
         Motörhead<br>
+        Moving Beyond (Webinar)<br>
         Moxy<br>
         Mr. Big<br>
         Mötley Crüe<br>
@@ -258,6 +266,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Repo Depo<br>
         Richie Kotzen<br>
         Rick Wakeman<br>
+        Ring Of Fire<br>
         Ringo Starr<br>
         Riot<br>
         River's Invitation<br>
@@ -299,15 +308,19 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Spike Edney<br>
         Spirit<br>
         Spock's Beard<br>
+        Star One<br>
         Steamroller<br>
         Steve Morse Band<br>
         Stevie Nicks<br>
+        Stone Sour<br>
         Strange Brew<br>
         Strife<br>
+        Stryper<br>
         Sunflower Jam (Charity Event)<br>
         Sunstorm<br>
         Supertramp<br>
         Sweetshop<br>
+        Symphony X<br>
         Symphonyc Slam<br>
         System Of A Down<br>
         Tipton, Entwistle & Powell<br>
@@ -373,6 +386,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Tony Martin<br>
         Toto<br>
         Traffic<br>
+        Trans-Siberian Orchestra<br>
         Trapeze<br>
         Trevor Rabin<br>
         Twisted Sister<br>
@@ -383,6 +397,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Van Halen<br>
         Vanilla Fudge<br>
         Velvet Underground<br>
+        Vengeance<br>
         Vintage 67<br>
         Wainwright's Gentlemen<br>
         Warhorse<br>
