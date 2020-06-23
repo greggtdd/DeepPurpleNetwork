@@ -95,6 +95,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Cyrano & The Bergeracs<br>
         D.V.C.<br>
         Damn Yankees<br>
+        David Bowie<br>
         David Gilmour<br>
         David Lee Roth<br>
         Deep Purple<br>
@@ -134,6 +135,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Fleetwood Mac<br>
         Flying Colors<br>
         Flying Fox<br>
+        Foo Fighters<br>
         Foreigner<br>
         Free<br>
         G3 Tour<br>
@@ -231,6 +233,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Nazareth<br>
         Nick Simper<br>
         Night Ranger<br>
+        Nirvana<br>
         Olympic Rock & Blues Circus<br>
         Opeth<br>
         Over The Rainbow<br>
