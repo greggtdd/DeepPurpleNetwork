@@ -73,6 +73,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Blackmore's Night<br>
         Blessings<br>
         Blood Sweat & Tears<br>
+        Blue Murder<br>
         Blues Incorporated<br>
         Bob Dylan<br>
         Bon Jovi<br>
