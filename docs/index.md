@@ -230,7 +230,6 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Moonstone Project<br>
         Mother's Army<br>
         Motörhead<br>
-        Moving Beyond (Webinar)<br>
         Moxy<br>
         Mr. Big<br>
         Mötley Crüe<br>
@@ -313,6 +312,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Some Other Guys<br>
         Sons Of Apollo<br>
         Soul SirKUS<br>
+        Soundhouse Dream Band<br>
         Spike Edney<br>
         Spirit<br>
         Spock's Beard<br>
