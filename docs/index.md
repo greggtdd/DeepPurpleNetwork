@@ -69,6 +69,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Black Label Society<br>
         Black Oak Arkansas<br>
         Black Sabbath<br>
+        Black Star Riders<br>
         Blackmore's Night<br>
         Blessings<br>
         Blood Sweat & Tears<br>
@@ -138,6 +139,8 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Foo Fighters<br>
         Foreigner<br>
         Free<br>
+        Frost*<br>
+        Funky Junction<br>
         G3 Tour<br>
         G.M.T.<br>
         Garth Rockett & The Moonshiners<br>
@@ -181,6 +184,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Joe Satriani<br>
         Joe Walsh<br>
         John Mayall<br>
+        John Wetton<br>
         Johnny Kidd & The Pirates<br>
         Jon Lord<br>
         Jon Lord Blues Project<br>
@@ -296,6 +300,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Scorpions<br>
         Screaming Lord Sutch<br>
         Sebastian Bach<br>
+        Secret Sphere<br>
         Sharon Isbin<br>
         Simon Raven Cult<br>
         Skid Row<br>
@@ -402,6 +407,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Velvet Underground<br>
         Vengeance<br>
         Vintage 67<br>
+        Vision Divine<br>
         Wainwright's Gentlemen<br>
         Warhorse<br>
         We Willie Harris<br>
