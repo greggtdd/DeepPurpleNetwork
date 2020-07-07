@@ -209,7 +209,7 @@ ___
 
 ### Don Airey
 
-<div style="text-align: justify">This bubble chart shows the main families detected in the global network for <b>Don Airey</b>. He has had a long and productive career, playing with such acts as <b>Gary Moore</b>, <b>Ozzy Osbourne</b>, <b>Judas Priest</b>, <b>Black Sabbath</b>, <b>Jethro Tull</b>, <b>Whitesnake</b>, <b>Saxon</b>, <b>Wishbone Ash</b>, <b>Cozy Powell</b>, <b>Colosseum II</b>, <b>Michael Schenker</b>, <b>Rainbow</b>, <b>Empire</b>, members of <b>Thin Lizzy</b>, <b>Brian May</b> and <b>Living Loud</b>. He also worked with <b>Andrew Lloyd Webber</b>b> for the classical and rock fusion album <em>Variations</em> (1978).</div>
+<div style="text-align: justify">This bubble chart shows the main families detected in the global network for <b>Don Airey</b>. He has had a long and productive career, playing with such acts as <b>Gary Moore</b>, <b>Ozzy Osbourne</b>, <b>Judas Priest</b>, <b>Black Sabbath</b>, <b>Jethro Tull</b>, <b>Whitesnake</b>, <b>Saxon</b>, <b>Wishbone Ash</b>, <b>Cozy Powell</b>, <b>Colosseum II</b>, <b>Michael Schenker</b>, <b>Rainbow</b>, <b>Empire</b>, members of <b>Thin Lizzy</b>, <b>Brian May</b> and <b>Living Loud</b>. He also worked with <b>Andrew Lloyd Webber</b> for the classical and rock fusion album <em>Variations</em> (1978).</div>
 
 <!-- blank line -->
 <figure class="video_container">
