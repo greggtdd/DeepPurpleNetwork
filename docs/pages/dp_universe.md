@@ -34,7 +34,7 @@ ___
 
 ### Rare Line-ups
 
-<div style="text-align: justify">Over the years, several musicians shared the stage together with Deep Purple on the occasion of some special events, tour legs, or just for dealing with unforeseen circumstances affecting some members of the band. For example, many US tours in the Seventies have seen members of the band dealing with hepatitis, so proper substitutes were called to jump on stage if the shows couldn't be postponed or canceled. Other formations reported here are based on studio auditions, such has the one for the recording of <em>The Battle Rages On album</em> in 1992.</div>
+<div style="text-align: justify">Over the years, several musicians shared the stage together with Deep Purple on the occasion of some special events, tour legs, or just for dealing with unforeseen circumstances affecting some members of the band. For example, many US tours in the Seventies have seen members of the band dealing with hepatitis, so proper substitutes were called to jump on stage if the shows couldn't be postponed or canceled. Other formations reported here are based on studio auditions, such has the ones held after Ian Gillan's second departure from the band in 1989.</div>
 	
 <!-- blank line -->
 <figure class="video_container">
