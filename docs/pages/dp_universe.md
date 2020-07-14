@@ -70,7 +70,7 @@ ___
 	
 <!-- blank line -->
 <figure class="video_container">
-  <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~greggtedde/129.embed?showlink=false" height="425" width="100%"></iframe>
+  <iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~greggtedde/129.embed?showlink=false" height="525" width="100%"></iframe>
 </figure>
 <!-- blank line -->
 
