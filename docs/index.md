@@ -85,10 +85,12 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Buddy Britten & The Regents<br>
         California Breed<br>
         Captain Beyond<br>
+        Cheap Trick<br>
         Chicago<br>
         Chickenfoot<br>
         Cinderella<br>
         Cofee Bar<br>
+        Cold Chisel<br>
         Colusseum<br>
         Coverdale/Page<br>
         Cozy Powell<br>
@@ -139,6 +141,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Flying Fox<br>
         Foo Fighters<br>
         Foreigner<br>
+        Fraternity<br>
         Free<br>
         Frost*<br>
         Funky Junction<br>
@@ -179,6 +182,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Jeff Scott Soto<br>
         Jethro Tull<br>
         Jim Capaldi<br>
+        Jimmy Barnes<br>
         Joe Bonamassa<br>
         Joe Lynn Turner<br>
         Joe Meek (Producer)<br>
@@ -203,14 +207,19 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Led Zeppelin<br>
         Legend Voices Of Rock<br>
         Level 10<br>
+        Lion<br>
         Liquid Tension Experiment<br>
+        Little River Band<br>
         Living Colour<br>
         Living Loud<br>
+        Loverboy<br>
         Lynch Mob<br>
         Lynyrd Skynyrd<br>
         M3<br>
         M.G.M.<br>
         Maggie Bell<br>
+        Magnum<br>
+        Mahalia Barnes & The Soulmates<br>
         Mahavishnu Orchestra<br>
         Mandrake Root<br>
         Manfred Mann<br>
@@ -270,8 +279,10 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Rainbow<br>
         Randy Pie<br>
         Ratt<br>
+        REO Speedwagon<br>
         Repo Depo<br>
         Richie Kotzen<br>
+        Rick Springfield<br>
         Rick Wakeman<br>
         Ring Of Fire<br>
         Ringo Starr<br>
@@ -280,6 +291,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Robert Plant<br>
         Rock Aid Armenia<br>
         Rock Ensemble II<br>
+        Rock Meets Classic (Tour)
         Rod Stewart<br>
         Roger Glover<br>
         Ronnie James Dio<br>
@@ -318,6 +330,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Spirit<br>
         Spock's Beard<br>
         Star One<br>
+        Status Quo<br>
         Steamroller<br>
         Steve Morse Band<br>
         Stevie Nicks<br>
@@ -328,6 +341,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Sunflower Jam (Charity Event)<br>
         Sunstorm<br>
         Supertramp<br>
+        Survivor<br>
         Sweetshop<br>
         Symphony X<br>
         Symphonyc Slam<br>
@@ -348,6 +362,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         The Cult<br>
         The Dead Daisies<br>
         The Dominators<br>
+        The Eagles<br>
         The Fabulosa Brothers<br>
         The Faces<br>
         The Flowerpot Men<br>
@@ -375,10 +390,12 @@ After landing on a new notebook, start exploring the **DP** family graph!
         The Rockers<br>
         The Rolling Stones<br>
         The Satellites<br>
+        The Scorpions<br>
         The Searchers<br>
         The Shindings<br>
         The Singing Rebel's Band<br>
         The Skyliners<br>
+        The Spectres<br>
         The Spencer Davis Group<br>
         The Sweet<br>
         The Temperance Movement<br>
@@ -395,6 +412,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Tony Martin<br>
         Toto<br>
         Traffic<br>
+        Traffic Jam<br>
         Trans-Siberian Orchestra<br>
         Trapeze<br>
         Trevor Rabin<br>
@@ -402,6 +420,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         UFO<br>
         U.K.<br>
         Uli Jon Roth<br>
+        Ultravox<br>
         Uriah Heep<br>
         Van Halen<br>
         Vanilla Fudge<br>
