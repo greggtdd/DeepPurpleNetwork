@@ -66,7 +66,7 @@ ___
 
 ### Bands' PageRank scores
 
-<div style="text-align: justify">The same criterion described above can be also applied for the bands. Festival events play, off course, a major role in this ranking, but also bands such as <b>Whitesnake</b>, <b>Blackmore's Night</b> and the <b>Michael Schenker Group</b> seem to be relevant given their numoerous line-ups, which include some of the most influential musicians from the original network. </div>
+<div style="text-align: justify">The same criterion described above can be also applied for the bands. Festival events play, off course, a major role in this ranking, but also bands such as <b>Whitesnake</b>, <b>Blackmore's Night</b> and the <b>Michael Schenker Group</b> seem to be relevant given their numoerous line-ups, which include some of the most influential musicians from the original network. You can zoom inside the graph in order to see all the listed bands with the highest PageRank scores.</div>
 	
 <!-- blank line -->
 <figure class="video_container">
