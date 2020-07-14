@@ -336,6 +336,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Stevie Nicks<br>
         Stone Sour<br>
         Strange Brew<br>
+        Strangeways<br>
         Strife<br>
         Stryper<br>
         Sunflower Jam (Charity Event)<br>
