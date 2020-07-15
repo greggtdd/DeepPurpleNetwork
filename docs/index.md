@@ -35,8 +35,8 @@ After landing on a new notebook, start exploring the **DP** family graph!
 </style>
 <div class="container">
   <div id="bands_list">
-        AC/DC<br>
         Abba<br>
+        AC/DC<br>
         Adam Fatih<br>
         Adrenaline Mob<br>
         After Forever<br>
@@ -145,7 +145,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Free<br>
         Frost*<br>
         Funky Junction<br>
-        G3 Tour<br>
+        G3 (Tour)<br>
         G.M.T.<br>
         Garth Rockett & The Moonshiners<br>
         Gary Moore<br>
