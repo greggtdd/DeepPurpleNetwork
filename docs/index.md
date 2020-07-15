@@ -291,7 +291,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Robert Plant<br>
         Rock Aid Armenia<br>
         Rock Ensemble II<br>
-        Rock Meets Classic (Tour)
+        Rock Meets Classic (Tour)<br>
         Rod Stewart<br>
         Roger Glover<br>
         Ronnie James Dio<br>
@@ -341,6 +341,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Stryper<br>
         Sunflower Jam (Charity Event)<br>
         Sunstorm<br>
+        Superdrumming (TV Show)<br>
         Supertramp<br>
         Survivor<br>
         Sweetshop<br>
