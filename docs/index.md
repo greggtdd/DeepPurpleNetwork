@@ -57,6 +57,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Ashton/Lord<br>
         Asia<br>
         Black Country Communion<br>
+        Babe Ruth<br>
         Baby Face<br>
         Bad Company<br>
         Bedlam<br>
@@ -85,9 +86,11 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Buddy Britten & The Regents<br>
         California Breed<br>
         Captain Beyond<br>
+        Carmine Appice<br>
         Cheap Trick<br>
         Chicago<br>
         Chickenfoot<br>
+        Chris Thompson<br>
         Cinderella<br>
         Cofee Bar<br>
         Cold Chisel<br>
@@ -95,6 +98,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Coverdale/Page<br>
         Cozy Powell<br>
         Cream<br>
+        Crossbones<br>
         Curtiss/Maldoon<br>
         Cyrano & The Bergeracs<br>
         D.V.C.<br>
@@ -108,10 +112,12 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Delta Five<br>
         Denny & The Triumphs<br>
         Denver Mule<br>
+        Derek Sherinian<br>
         Desperado<br>
         Device<br>
         Die Geyers<br>
         Dire Straits<br>
+        Divlje Jagode<br>
         Dixie Dregs<br>
         Dokken<br>
         Don Airey<br>
@@ -140,6 +146,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Flying Colors<br>
         Flying Fox<br>
         Foo Fighters<br>
+        Forcefield<br>
         Foreigner<br>
         Fraternity<br>
         Free<br>
@@ -148,12 +155,14 @@ After landing on a new notebook, start exploring the **DP** family graph!
         G3 (Tour)<br>
         G.M.T.<br>
         Garth Rockett & The Moonshiners<br>
+        Gary Barden<br>
         Gary Moore<br>
         Genesis<br>
         George Harrison<br>
         Gillan<br>
         Gillan/Glover<br>
         Giuffria<br>
+        Glasgow<br>
         Glenn Hughes<br>
         Glenn Tipton<br>
         Gotthard<br>
@@ -166,6 +175,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Harlot<br>
         Harvest<br>
         Heinz Burt<br>
+        Helix<br>
         Hollywood Monsters<br>
         Hughes/Downes<br>
         Hughes/Iommi<br>
@@ -178,25 +188,31 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Jack Green<br>
         James Gang<br>
         Jan Holdeborg<br>
+        Jason Bonham<br>
         Jeff Beck<br>
         Jeff Scott Soto<br>
         Jethro Tull<br>
         Jim Capaldi<br>
         Jimmy Barnes<br>
+        Jimmy Page<br>
         Joe Bonamassa<br>
         Joe Lynn Turner<br>
         Joe Meek (Producer)<br>
         Joe Satriani<br>
         Joe Walsh<br>
+        Joel Hoekstra<br>
         John Mayall<br>
+        John Mizarolli<br>
         John Wetton<br>
         Johnny Kidd & The Pirates<br>
         Jon Lord<br>
         Jon Lord Blues Project<br>
         Jordan Rudess<br>
+        Jorn<br>
         Journey<br>
         Judas Priest<br>
         Kansas<br>
+        Katrina & The Waves<br>
         Keith Emerson<br>
         Killswitch Engage<br>
         King Crimsom<br>
@@ -235,6 +251,8 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Michael Men<br>
         Michael Schenker Group<br>
         Mick Jagger<br>
+        Millenium<br>
+        Mona Liza Overdrive<br>
         Moody Blues<br>
         Moody Marsden<br>
         Moonstone Project<br>
@@ -259,12 +277,14 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Patch Of Blue<br>
         Paul Gilbert<br>
         Paul McCartney<br>
+        Perfect Crime<br>
         Pete York<br>
         Peter Green<br>
         Phenomena<br>
         Phil Collins<br>
         Pink Floyd<br>
         Planet X<br>
+        Plum & Youth<br>
         Poison<br>
         Popzarocca<br>
         Pretty Maids<br>
@@ -300,6 +320,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Rosco Gordon<br>
         Roundabout<br>
         Roxy Music<br>
+        Roy Harper<br>
         Rudess/Morgenstein<br>
         Rupert Hine<br>
         Rush<br>
@@ -314,7 +335,9 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Sebastian Bach<br>
         Secret Sphere<br>
         Sharon Isbin<br>
+        Silver<br>
         Simon Raven Cult<br>
+        Simple Minds<br>
         Skid Row<br>
         Skid Row (Irish Band)<br>
         Slash's Snakepit<br>
@@ -337,11 +360,11 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Stone Sour<br>
         Strange Brew<br>
         Strangeways<br>
+        Strawbs<br>
         Strife<br>
         Stryper<br>
         Sunflower Jam (Charity Event)<br>
         Sunstorm<br>
-        Superdrumming (TV Show)<br>
         Supertramp<br>
         Survivor<br>
         Sweetshop<br>
@@ -350,7 +373,9 @@ After landing on a new notebook, start exploring the **DP** family graph!
         System Of A Down<br>
         Tipton, Entwistle & Powell<br>
         Talking Heads<br>
+        Taz Taylor<br>
         Tempest<br>
+        Ten<br>
         Ten Years After<br>
         The Allmann Brothers Band<br>
         The Aristocrats<br>
@@ -412,12 +437,14 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Tony Ashton<br>
         Tony Iommi<br>
         Tony Martin<br>
+        Tony MacAlpine<br>
         Toto<br>
         Traffic<br>
         Traffic Jam<br>
         Trans-Siberian Orchestra<br>
         Trapeze<br>
         Trevor Rabin<br>
+        True Brits<br>
         Twisted Sister<br>
         UFO<br>
         U.K.<br>
@@ -432,6 +459,7 @@ After landing on a new notebook, start exploring the **DP** family graph!
         Vision Divine<br>
         Wainwright's Gentlemen<br>
         Warhorse<br>
+        Warren DeMartini<br>
         We Willie Harris<br>
         Whishbone Ash<br>
         White Lion<br>
